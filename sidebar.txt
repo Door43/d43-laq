@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[laq:home|Door43 (laq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-laq|d43-laq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-laq/archive/master.zip|d43-laq.zip]]
+
+**Recent Changes**
+{{changes>ns = laq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/laq|Ethnologue data]]
+
